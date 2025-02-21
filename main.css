@@ -38,6 +38,14 @@ button {
   height: 30px;
 }
 
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: 115px;
+  padding-top: 115px;
+}
+
 .about__image {
   width: 500px;
 }
